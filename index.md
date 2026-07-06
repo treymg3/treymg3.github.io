@@ -7,12 +7,13 @@ title: DREAM Project Site
 {:toc}
 
 ## About Me
+My name is Milton Garrett III. After completing my first year in DePaul University’s Master’s in Computer Science program (graduating in late 2027/early 2028), I am thrilled to have been selected for the Distributed Research Apprenticeships for Master’s (DREAM) program. DREAM is designed to provide research experience and mentorship to master’s students who are transitioning into computing from non-computer science backgrounds. As someone whose academic and professional background includes biochemistry, health informatics, clinical research, and healthcare quality improvement, I am incredibly grateful for the opportunity to continue developing as a computer science researcher.
 
-My name is Milton Garrett III. I am currently pursuing a Master’s in Computer Science at DePaul University and will graduate in late 2027 /early 2028. My academic background includes biochemistry, health and medical informatics, and clinical research. Because of that background, I am especially interested in projects that connect computer science, healthcare data, machine learning, and real-world patient outcomes.
+Through DREAM, I have joined the lab of Dr. Roselyne Tchoua, where my work connects data science, machine learning, Social Determinants of Health, Community Health Worker programs, and hospital readmission prediction. My personal research interests lie at the intersection of computing systems, data reliability, healthcare data infrastructure, and applied machine learning. I am especially interested in how scalable computational methods and reproducible data pipelines can improve decision-making in high-impact domains such as healthcare and finance.
 
-My research interests lie at the intersection of computing systems, data reliability, and complex real-world infrastructures such as healthcare and finance. Through my prior work in health informatics and multi-site quality improvement research, I observed how limitations in data extraction, reporting accuracy, and system interoperability can significantly impact downstream outcomes. These experiences motivated my transition into computer science, where I am developing foundations in data structures, algorithmic reasoning, and systems thinking.
+Outside of my studies and research, I enjoy watching and following sports, watching courtroom television shows, listening to high-quality orchestral music, and appreciating the music and artistry of Michael Jackson.
 
-I am particularly interested in exploring how scalable computational methods and robust system design can improve data integrity and decision-making in high-impact domains. Ultimately, I aim to contribute research that bridges applied systems challenges with rigorous computational inquiry.
+If you have any questions or would like to collaborate, please feel free to reach out using through email or add me on LinkedIn.
 
 ## About My Advisor
 
