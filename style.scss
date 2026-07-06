@@ -386,3 +386,19 @@ header img {
   float: none !important;
   margin: 0 auto 18px auto !important;
 }
+/* Square profile image like Vahid's DREAM site */
+
+.avatar,
+.profile-photo,
+.site-avatar,
+header img {
+  width: 190px !important;
+  height: 190px !important;
+  max-width: 190px !important;
+  object-fit: cover !important;
+  object-position: center top !important;
+  border-radius: 0 !important;
+  display: block !important;
+  float: none !important;
+  margin: 0 auto 22px auto !important;
+}
