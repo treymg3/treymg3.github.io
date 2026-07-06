@@ -388,3 +388,17 @@ header img {
   float: none !important;
   margin: 0 auto 22px auto !important;
 }
+
+.blog-button {
+  display: inline-block;
+  background: #1f2937;
+  color: white !important;
+  padding: 12px 18px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.blog-button:hover {
+  background: #374151;
+}
