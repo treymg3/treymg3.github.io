@@ -391,14 +391,16 @@ header img {
 
 .blog-button {
   display: inline-block;
-  background: #1f2937;
+  background-color: #2563eb;
   color: white !important;
-  padding: 12px 18px;
+  padding: 10px 18px;
   border-radius: 6px;
   text-decoration: none;
   font-weight: 600;
+  margin-top: 8px;
 }
 
 .blog-button:hover {
-  background: #374151;
+  background-color: #1d4ed8;
+  text-decoration: none;
 }
