@@ -13,8 +13,8 @@ Through DREAM, I have joined the lab of Dr. Roselyne Tchoua, where my work conne
 
 Outside of my studies and research, I enjoy watching and following sports, watching courtroom television shows, listening to high-quality orchestral music, and appreciating the music and artistry of Michael Jackson.
 
-If you have any questions or would like to collaborate, please feel free to reach out through email (miltongarrett615@gmail.com) or add me on LinkedIn(www.linkedin.com/in/
-milton-garrett-iii)
+If you have any questions or would like to collaborate, please feel free to reach out through email [miltongarrett615@gmail.com] or add me on LinkedIn [www.linkedin.com/in/
+milton-garrett-iii]
 
 ## About My Advisor
 
