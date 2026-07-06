@@ -372,20 +372,6 @@ strong {
     padding: 22px;
   }
 }
-/* Fix profile picture size and prevent overlap with name */
-
-.avatar,
-.profile-photo,
-header img {
-  width: 100px !important;
-  height: 100px !important;
-  max-width: 100px !important;
-  object-fit: cover !important;
-  border-radius: 50% !important;
-  display: block !important;
-  float: none !important;
-  margin: 0 auto 18px auto !important;
-}
 /* Square profile image like Vahid's DREAM site */
 
 .avatar,
