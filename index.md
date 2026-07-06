@@ -51,8 +51,7 @@ Veeramreddy, N.K.R., Mishra, A., Maglani, N., Shaik, S., McCabe, K., Furst, J., 
 ## My Blog
 
 Please review my blogs for a comprehensive update on the progress of my research by clicking the link.
-
 <p>
-  <a href="/blog/" class="blog-button">Blog</a>
+  <a href="/myBlog/" class="blog-button">Blog</a>
 </p> 
 
