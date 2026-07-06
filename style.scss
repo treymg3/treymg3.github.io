@@ -372,3 +372,17 @@ strong {
     padding: 22px;
   }
 }
+/* Fix profile picture size and prevent overlap with name */
+
+.avatar,
+.profile-photo,
+header img {
+  width: 120px !important;
+  height: 120px !important;
+  max-width: 120px !important;
+  object-fit: cover !important;
+  border-radius: 50% !important;
+  display: block !important;
+  float: none !important;
+  margin: 0 auto 18px auto !important;
+}
