@@ -49,5 +49,10 @@ Veeramreddy, N.K.R., Mishra, A., Maglani, N., Shaik, S., McCabe, K., Furst, J., 
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
-[Please review my blogs here for a comprehensive update on the progress of my research.](/blog/)
+
+Please review my blogs for a comprehensive update on the progress of my research by clicking the link.
+
+<p>
+  <a href="/blog/" class="blog-button">Blog</a>
+</p> 
 
