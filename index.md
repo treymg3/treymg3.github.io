@@ -38,7 +38,7 @@ My DREAM objectives are:
 4. Contribute to machine learning model reproducibility by carefully documenting data preparation, modeling steps, and evaluation decisions.
 5. Explore future research directions involving patient satisfaction, sentiment, Community Health Worker notes, and readmission prediction 
 
-Reference
+Reference:
 Karam, K., MacCabe, K., & Tchoua, R. (2023). Leveraging Community Health Workers and Social Determinants of Health for Predicting Emergency Department Readmissions. Proceedings of the 2023 Fifth International Conference on Transdisciplinary AI.
 
 [My Final Report](files/finalreport.pdf)
